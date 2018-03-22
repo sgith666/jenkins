@@ -1,5 +1,6 @@
 #!/bin/bash
 
+mkdir build_app
 mkdir build_app/app
 cp -r app/* build_app/app/.
 cd build_app/app
